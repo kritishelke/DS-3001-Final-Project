@@ -21,5 +21,5 @@ colsample_bytree = 0.8
 
 #regularize noisy finance features
 min_child_weight = 1
-reg_alpha = 0 
+reg_alpha = 0
 reg_lambda = 1
